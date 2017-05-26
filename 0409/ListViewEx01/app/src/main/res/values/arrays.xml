@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="strArray">
+        <item>하나 1</item>
+        <item>하나 2</item>
+        <item>하나 3</item>
+        <item>하나 4</item>
+        <item>하나 5</item>
+        <item>하나 6</item>
+        <item>하나 7</item>
+        <item>하나 8</item>
+        <item>하나 9</item>
+        <item>하나 10</item>
+        <item>하나 11</item>
+        <item>하나 12</item>
+        <item>하나 13</item>
+        <item>하나 14</item>
+        <item>하나 15</item>
+    </array>
+</resources>

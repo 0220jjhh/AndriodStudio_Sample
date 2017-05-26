@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.toastex.MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/offsetX"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberSigned"
+        android:hint="X좌표를 입력하세요"
+        />
+
+    <EditText
+        android:id="@+id/offsetY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberSigned"
+        android:hint="Y좌표를 입력하세요"
+        />
+
+    <Button
+        android:onClick="viewToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="원하는 위치에 띄우기"
+        />
+
+    <Button
+        android:onClick="viewToast2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="원하는 모양으로 띄우기"
+        />
+
+    <Button
+        android:onClick="viewToast3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="그림으로 띄우기"
+        />
+
+</LinearLayout>

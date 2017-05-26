@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1111111</string>
+    <string name="message">안녕하세요 안드로이드입니다.</string>
+    //스트링 네임이 변수명
+    <string name="message2">네이버 가기</string>
+    <string name="message3">전화걸기</string>
+    <string name="message4">내가 만든 액티비티 띄우기</string>
+</resources>
